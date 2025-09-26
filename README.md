@@ -11,3 +11,4 @@ A simple web application demonstrating Git workflows.
 ## Development
 ```bash
 python app.py
+\n## Installation\n```bash\npip install -r requirements.txt\n```

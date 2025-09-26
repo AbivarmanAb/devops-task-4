@@ -1,0 +1,53 @@
+# Task 4 Documentation
+
+## Steps Completed
+
+### 1. Repository Setup
+- Initialized Git repository
+- Created proper project structure
+- Added .gitignore for Python project
+
+### 2. Branching Strategy
+- **main**: Production-ready code
+- **dev**: Development integration branch  
+- **feature/health-endpoint**: Feature branch example
+
+### 3. Git Workflow Demonstrated
+- Feature branch creation
+- Commits with meaningful messages
+- Pull request process
+- Tagging for releases
+
+### 4. Files Created
+- `app.py`: Simple Flask application
+- `requirements.txt`: Dependencies
+- `README.md`: Project documentation
+- `.gitignore`: Exclusion rules
+- `TASK_DOCUMENTATION.md`: This file
+
+## Interview Questions Answers
+
+1. **What is Git?**
+   - Distributed version control system for tracking changes in source code
+
+2. **Merge vs Rebase**
+   - Merge: Preserves history, creates merge commit
+   - Rebase: Rewrites history, creates linear timeline
+
+3. **Pull Request**
+   - Code review mechanism before merging changes
+
+4. **Merge Conflicts**
+   - Edit conflicted files, mark as resolved with `git add`, then commit
+
+5. **Git Tags**
+   - Mark specific points in history as important (releases)
+
+6. **Git Workflow**
+   - Strategy for branching and merging (e.g., Git Flow)
+
+7. **Git Stash**
+   - Temporarily save uncommitted changes
+
+8. **.gitignore**
+   - Specifies files Git should ignore
